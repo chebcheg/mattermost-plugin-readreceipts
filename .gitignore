@@ -1,0 +1,15 @@
+# Сборка
+/dist/
+/server/dist/
+/webapp/dist/
+
+# Зависимости
+/webapp/node_modules/
+
+# Архивы плагина
+*.tar.gz
+
+# Мусор из Windows-каталога
+build (2).ps1
+Thumbs.db
+.DS_Store
